@@ -1,0 +1,8 @@
+Mini PyQt6 Project: Task Manager App 📝
+This project will help you apply OOP principles in PyQt6 while building a simple but useful desktop application.
+
+🔹 Features:
+✅ Add, delete, and mark tasks as completed
+✅ Save tasks locally (using sqlite3 or json)
+✅ Basic UI with buttons, input fields, and a task list
+✅ Signals and Slots for user interactions
